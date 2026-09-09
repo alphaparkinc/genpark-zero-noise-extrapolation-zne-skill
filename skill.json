@@ -1,0 +1,15 @@
+{
+  "name": "genpark-zero-noise-extrapolation-zne-skill",
+  "version": "1.0.0",
+  "description": "Quantum error mitigation (QEM) Zero-Noise Extrapolation (ZNE) engine implementing noise scaling, polynomial fitting, and Richardson extrapolation.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "qem",
+    "zero-noise-extrapolation",
+    "error-mitigation",
+    "richardson-extrapolation"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
